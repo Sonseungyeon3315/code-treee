@@ -1,0 +1,10 @@
+a, b = input().split()
+
+result_1 = int(a) + int(b)
+result_2 =  int(a) - int(b)
+result_3 =  int(a) // int(b)
+result_4 =  int(a) % int(b)
+print(result_1)
+print(result_2)
+print(result_3)
+print(result_4)
