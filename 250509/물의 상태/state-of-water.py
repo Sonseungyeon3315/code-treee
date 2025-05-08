@@ -7,6 +7,5 @@ if n<0:
 elif n > 100:
     print("vapor")
 
-else:
-    
+elif 0<n<100:
     print("water")
