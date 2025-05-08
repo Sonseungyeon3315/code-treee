@@ -1,6 +1,4 @@
-inp = input()
-arr = inp.split()
-n = int(arr[0])
+n = int(input())
 
 if n<0:
     print("ice")
